@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655798484064",
+    "project_id": "news-dbd24",
+    "storage_bucket": "news-dbd24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655798484064:android:0b1ab59e14eda9e6afd705",
+        "android_client_info": {
+          "package_name": "com.bsru.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655798484064-sa3vcpl0m4bmr887rageao1si4h9fosb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ0mQGu8qxh9VGj1Fc1QulsbmRlkx45JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655798484064-sa3vcpl0m4bmr887rageao1si4h9fosb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
